@@ -1,7 +1,7 @@
-## New Jersey Dispensary Locations
+## New Jersey Digital Divide
 
-Here's my sample map website!
+Here's my map of who's offline!
 
-<iframe src="nj_dispensaries.html" height="500" width="500"></iframe>
+<iframe src="internetaccessibility.html" height="500" width="500"></iframe>
 
-You can explore this map [as its own web page here](nj_dispensaries.html).
+You can explore this map [as its own web page here](internetaccessibility.html).
